@@ -6491,7 +6491,7 @@
     "top_level_sheets": [
       {
         "filename": "Magister_work_v1.kicad_sch",
-        "name": "Magister_work_v1",
+        "name": "Remote_ctrl",
         "uuid": "9ff4e5e8-ab59-4c4d-a10a-f8f5e444c5cb"
       }
     ],
@@ -6501,7 +6501,7 @@
   "sheets": [
     [
       "9ff4e5e8-ab59-4c4d-a10a-f8f5e444c5cb",
-      "Magister_work_v1"
+      "Remote_ctrl"
     ],
     [
       "6e6c00e0-c4a8-403b-83b3-c44ac9f0fdda",
