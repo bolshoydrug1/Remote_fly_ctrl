@@ -6495,7 +6495,7 @@
         "uuid": "9ff4e5e8-ab59-4c4d-a10a-f8f5e444c5cb"
       }
     ],
-    "used_designators": "#PWR86-88,R6,R36,D8-9",
+    "used_designators": "U1,D4-5,#PWR1-2,#PWR9-10,#PWR57-61,#PWR68-69,#PWR95,#PWR97-100,#PWR102-104,#PWR108-111,C28,C35-36,C46-47,C52,R7-8,R12-13,R24-27,R29-32,J2-5,J7-9,J15,J17,VD2-3,VD5-6,VD15,Q1-2",
     "variants": []
   },
   "sheets": [
@@ -6517,11 +6517,11 @@
     ],
     [
       "3660b783-eee0-4e1b-8342-5de2b174bf8a",
-      "PWM_out"
+      "LEDs"
     ],
     [
       "15a36b06-8454-4363-8de9-e6e1cabaaceb",
-      "External_interfaces"
+      "Buttons"
     ]
   ],
   "text_variables": {},

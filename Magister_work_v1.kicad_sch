@@ -67,7 +67,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "15a36b06-8454-4363-8de9-e6e1cabaaceb")
-		(property "Sheetname" "External_interfaces"
+		(property "Sheetname" "Buttons"
 			(at 87.63 119.9384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -159,7 +159,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "3660b783-eee0-4e1b-8342-5de2b174bf8a")
-		(property "Sheetname" "PWM_out"
+		(property "Sheetname" "LEDs"
 			(at 105.41 74.2184 0)
 			(show_name no)
 			(do_not_autoplace no)
