@@ -8382,7 +8382,7 @@
 				)
 			)
 		)
-		(property "Value" "+3V3D"
+		(property "Value" "+3V3"
 			(at 255.27 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
