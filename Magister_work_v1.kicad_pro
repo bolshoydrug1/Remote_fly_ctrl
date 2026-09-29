@@ -6369,7 +6369,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "Magister_work_v1.csv",
     "bom_fmt_presets": [],
@@ -6495,7 +6495,7 @@
         "uuid": "9ff4e5e8-ab59-4c4d-a10a-f8f5e444c5cb"
       }
     ],
-    "used_designators": "#PWR7,#PWR121-124,D2,D15,D20,J2,C5-6,C9",
+    "used_designators": "F1-2,D1-20,#PWR1-113,C1-48,R1-42,J1-9,DD1,Q1-12,SW1-12,U1-6,VD1-11,Y1-2",
     "variants": []
   },
   "sheets": [
