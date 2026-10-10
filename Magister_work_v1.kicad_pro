@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.7
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -60,7 +60,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "isolated_copper|41421337|72205521|64ba4998-7845-4bf5-87cf-169b6acb2823|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "isolated_copper|91666385|78886396|64ba4998-7845-4bf5-87cf-169b6acb2823|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -6495,7 +6504,7 @@
         "uuid": "9ff4e5e8-ab59-4c4d-a10a-f8f5e444c5cb"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR114",
     "variants": []
   },
   "sheets": [
