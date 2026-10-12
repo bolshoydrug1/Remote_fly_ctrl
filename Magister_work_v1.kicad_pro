@@ -6368,7 +6368,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "fabric_file/",
       "specctra_dsn": "",
       "vrml": ""
     },
